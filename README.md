@@ -1,5 +1,5 @@
 # 💫 About Me:
-# DETECTOR EFI<br><br>> Investigate. Analyze. Verify.<br><br>Digital Forensics • Malware Analysis • DFIR Research<br><br>#Focus Areas<br>- Memory Analysis<br>- Malware Triage<br>- Windows Internals<br>- Artifact Collection<br>- Incident Response<br>- Threat Hunting<br><br># Current Research<br>- Forensic Automation<br>- Memory Artifact Correlation<br>- Malware Behavioral Analysis
+# DETECTOR EFI<br><br>> Investigate. Analyze. Verify.<br><br>Digital Forensics • Malware Analysis • DFIR Research<br><br>#Focus Areas<br>- Memory Analysis<br>- Malware Triage<br>- Windows Internals<br>- Artifact Collection<br>- Incident Response<br>- Threat Hunting<br><br># Current Research<br>- Forensic Automation<br>- Memory Artifact Correlation<br>- Malware Behavioral Analysiss
 
 
 ## 🌐 Socials:
