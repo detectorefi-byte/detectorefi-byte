@@ -1,18 +1,87 @@
-# 💫 About Me:
-# DETECTOR EFI<br><br>> Investigate. Analyze. Verify.<br><br>Digital Forensics • Malware Analysis • DFIR Research<br><br>#Focus Areas<br>- Memory Analysis<br>- Malware Triage<br>- Windows Internals<br>- Artifact Collection<br>- Incident Response<br>- Threat Hunting<br><br># Current Research<br>- Forensic Automation<br>- Memory Artifact Correlation<br>- Malware Behavioral Analysis
+# 📂 INVESTIGATION CONSOLE // DFIR_SPECIALIST
 
+```text
+========================================================================
+[STATUS: MONITORING ACTIVE] [MEM: SECURE] [TARGET: MALWARE & INTRUSIONS]
+========================================================================
+    __                     _      __                    __           __
+   / /_  __  ______ ___   (_)___ / /_      ____ _____  / /_  _______/ /_
+  / __ \/ / / / __ `__ \ / / __ `__ \     / __ `/ __ \/ / / / / ___/ __/
+ / / / / /_/ / / / / / // / / / / / /    / /_/ / / / / / /_/ (__  ) /_  
+/_/ /_/\__,_/_/ /_/ /_//_/_/ /_/ /_/     \__,_/_/ /_/_/\__, /____/\__/  
+                                                      /____/            
+========================================================================
+   DIGITAL FORENSICS // INCIDENT RESPONSE // REVERSE ENGINEERING
+========================================================================
+```
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/kFRumpTK) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white) ![Phoenix Framework](https://img.shields.io/badge/phoenixframework-%23FD4F00.svg?style=for-the-badge&logo=phoenixframework&logoColor=black) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=detectorefi-byte&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=detectorefi-byte&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=detectorefi-byte&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+👋 **Welcome, investigator.** I am a **Digital Forensics and Incident Response (DFIR) Specialist**. I carve out truths from binary data, analyze memory dumps, trace network anomalies, and reverse-engineer malware to piece together cyber attack vectors.
 
 ---
-[![](https://komarev.com/ghpvc/?username=detectorefi-byte&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🛠️ FORENSIC TOOLKIT
+
+```text
+[+ CORE SKILLS & CAPABILITIES]
+├─ Host Forensics ─── Memory Extraction & Analysis, Registry Carving, Log Correlative Audit
+├─ Network Audit ─── Traffic PCAP Decryption, Lateral Movement Analysis, Intrusion Detection
+└─ Reverse Eng ────── Static/Dynamic Disassembly, Decompilation, Behavioral Sandbox Execution
+```
+
+#### 🛡️ Active Utilities & Technologies
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Memory & Host** | ![Volatility](https://img.shields.io/badge/Volatility-3-00FF66?style=flat-square&logo=python&logoColor=black) ![Autopsy](https://img.shields.io/badge/Autopsy-DFIR-cyan?style=flat-square) ![SleuthKit](https://img.shields.io/badge/SleuthKit-TSK-blue?style=flat-square) ![FTK](https://img.shields.io/badge/FTK-Imager-orange?style=flat-square) |
+| **Network Audits** | ![Wireshark](https://img.shields.io/badge/Wireshark-PCAP-1679A7?style=flat-square&logo=wireshark&logoColor=white) ![Zeek](https://img.shields.io/badge/Zeek-IDS-00e6ff?style=flat-square) ![TShark](https://img.shields.io/badge/TShark-CLI-1679a7?style=flat-square) ![Suricata](https://img.shields.io/badge/Suricata-NIDS-red?style=flat-square) |
+| **Malware & Reversing** | ![Ghidra](https://img.shields.io/badge/Ghidra-NSA-7f1d1d?style=flat-square) ![IDA Pro](https://img.shields.io/badge/IDA_Pro-Reversing-581c87?style=flat-square) ![x64dbg](https://img.shields.io/badge/x64dbg-Debugger-0ea5e9?style=flat-square) ![YARA](https://img.shields.io/badge/YARA-Rules-yellow?style=flat-square) |
+| **Languages & Scripting**| ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-Automate-5391FE?style=flat-square&logo=powershell&logoColor=white) |
+
+---
+
+### 📁 ACTIVE CASES (PORTFOLIO PROJECTS)
+
+Below are simulated incident logs and forensic write-ups of security cases I've investigated:
+
+* **[Case #0492: Operation ShadowKey (Ransomware Behavior)](https://github.com/detectorefi-byte/shadowkey-forensics)**
+  * *Host Analysis:* Traced persistence mechanism using registry run keys and carved custom ransomware executable headers from memory dumps.
+  * *Verdict:* Identified custom AES-256 payload and extracted the decrypter validation logic.
+
+* **[Case #0713: The Stealth Beacon (Lateral Movement Analysis)](https://github.com/detectorefi-byte/stealth-beacon-pcap)**
+  * *Network Analysis:* Analyzed 14GB of PCAP traffic to detect dynamic domain generation algorithm (DGA) beacons and DNS tunneling.
+  * *Verdict:* Located initial compromise point via an unpatched SSH service and documented lateral movement via SMB.
+
+* **[Case #0884: Memory Carving (Volatile Data Reconstruction)](https://github.com/detectorefi-byte/memory-carving-toolkit)**
+  * *Forensics Tooling:* Python scripts written to extract hidden VAD (Virtual Address Descriptor) nodes and rebuild injected DLLs.
+  * *Verdict:* Created a parser that maps running process threads to kernel API call hooks.
+
+---
+
+### 📊 ANALYST SYSTEM METRICS
+
+```text
+[SECURE TRANSMISSION METRICS]
+```
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=detectorefi-byte&show_icons=true&theme=tokyonight&bg_color=07070a&title_color=00ff66&icon_color=00ff66&text_color=a5f3fc&border_color=00ff66" alt="Forensic Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detectorefi-byte&layout=compact&theme=tokyonight&bg_color=07070a&title_color=00ff66&text_color=a5f3fc&border_color=00ff66" alt="Forensic Languages" width="48%" />
+</p>
+
+*Note: The links above load your personal statistics card automatically.*
+
+---
+
+### 📡 CONNECT TO COMMS
+```text
+[SECURE SHELL PROTOCOL ENABLED]
+```
+- **Live Terminal Workstation**: [https://detectorefi-byte.github.io/portfolio/](https://detectorefi-byte.github.io/portfolio/) *(Interactive Forensic Portfolio Website)*
+- **Security Operations Center (Email)**: `analyst@yourdomain.com` *(Replace with yours)*
+- **Secure Handling ID**: `DFIR-Agent-0x50`
+- **PGP Fingerprint**: `E62D 4D0F FE71 9C1B 1E81  4456 C9E3 D15B DE24 AF0A`
+
+```text
+========================================================================
+[SYSEND // TERMINAL DISCONNECTED]
+========================================================================
+```
